@@ -46,9 +46,11 @@ For Mac OS X, the recommended IDE is XCode, which you can get via the App Store.
 3. After opening project, you need to set the working directory:
    
    Go to *(Project Name) | Edit Scheme*
+   
    <img src="aux/Mac1.png" width="400"/>
    
    In new window, under Run/Debug on left side, under the Options tab, set Working Directory to ``$PROJECT_DIR`` and check ‘use custom working directory’.
+   
    <img src="aux/Mac2.png" width="400"/>
 
    Finally, compile and run the project. You should see a single quadcopter hovering (flying scenario 1).
