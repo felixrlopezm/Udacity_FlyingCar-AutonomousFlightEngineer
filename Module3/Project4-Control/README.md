@@ -1,6 +1,6 @@
 # Project 3: Building a Flight Controller in C++
 ## The Project
-Here you can find my implementation of the second project of the [Flying Car and Autonomous Flight Engineer Learning Nanodegree](https://www.udacity.com/course/flying-car-nanodegree--nd787), called Control of a 3D Quadrotor.
+Here you can find my implementation of the third project of the [Flying Car and Autonomous Flight Engineer Learning Nanodegree](https://www.udacity.com/course/flying-car-nanodegree--nd787), called Control of a 3D Quadrotor.
 
 This project is about to develop a flight controller for a quadrotor in C++.
 
